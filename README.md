@@ -43,7 +43,7 @@ Create .env file
 
     For simplicity, Zokrates directory already contains witness etc. files to generate a proof.
     
-    Run npm script to generate a proof - **npm run generate-proof 4 2**(for the square of number 2)
+    Run npm script to generate a proof - npm run generate-proof 4 2 (for the square of number 2)
     
 ## Submit the proof and mint corresponding token
 
