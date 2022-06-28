@@ -20,6 +20,17 @@ It is just a "proof" to demonstrate how to use Zokrates - showing that minter kn
 
 # How to run and test the project
 
+## Configuration
+
+Create .env file
+    
+    API_URL=<infura_api_url>
+    PRIVATE_KEY=<your_private_key>
+    SYMBOL=<token_symbol>
+    NAME=<token_name>
+    BASE_URL=<toke_base_url>
+    NETWORK_ID=<network_id>
+
 ## Deployment to Rinkeby testnet
 
     1. Install all the required packages in eth-contracts directory - npm install
