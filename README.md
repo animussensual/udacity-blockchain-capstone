@@ -25,7 +25,7 @@ It is just a "proof" to demonstrate how to use Zokrates - showing that minter kn
     1. Install all the required packages in eth-contracts directory - npm install
     2. Conigure Infura API key in .env file - API_URL=<your_infura_api_url>
     3. Configure private key in .env file - PRIVATE_KEY=<your_private_key>
-    4. Deploy contract to Rinkeby testnet - **truffle migrate --network rinkeby**
+    4. Deploy contract to Rinkeby testnet - truffle migrate --network rinkeby
     5. Find the token in OpenSea - https://testnets.opensea.io/collection/<symbol>
 
 ## Generate a proof
